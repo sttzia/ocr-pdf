@@ -9,3 +9,5 @@ From https://www.youtube.com/watch?v=a1I3tcALTlc and https://www.youtube.com/wat
 6. The folder uploads is used for every photo file you use. For example, eng_bw.png is a test file for OCR
 7. Use a browser to redirect to <localhost:5000> and choose the photo file
 8. The application will output a PDF file eng_bw.png.pdf and inside the uploads folder a similar enf_bw.png file will be created
+9. File testocr.png is another photo file
+10. Output PDF files are created on the ocr-pdf directory
