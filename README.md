@@ -2,7 +2,7 @@
 From https://www.youtube.com/watch?v=a1I3tcALTlc and https://www.youtube.com/watch?v=LsO1Mvn8M0I&amp;t=211s
 
 1. First of all you have to make a package.json file using <npm init -y>
-2. Install necessary dependencies <npm install ejs express multer tesseract.js>
+2. <npm install ejs express multer tesseract.js>
 3. Install nodemon using <npm install --save-dev nodemon>
 4. Edit "scripts" on package.json using <"start": "nodemon app.js">
 5. Start server using <npm start>
